@@ -2,6 +2,7 @@
 
 You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
 
+Comment to solve issue
 
 # List initiatives related to this theme
 1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
